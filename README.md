@@ -1,4 +1,5 @@
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubensilloDev&theme=burnt-neon&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 # Presentación
 
 A brief description of what this project does and who it's for
@@ -45,5 +46,8 @@ Workflow: IA Generativa (Prompting y aceleración de código), Git, Diseño UI
  - [Linkedin](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubensilloDev&theme=burnt-neon&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
